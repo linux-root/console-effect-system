@@ -4,7 +4,7 @@
 
 ```
 src/main/scala/fp
-    |--- app : example console app built on top of Console effect system
+    |--- app : example console apps built on top of Console effect system
     |--- runtime : effect system's interpreter
     |--- effect : Data structure describing effect ("syntax" of console app)
 ```
